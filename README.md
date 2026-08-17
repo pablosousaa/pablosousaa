@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software na <b>Universidade de Brasília (UnB)</b> 🎓<br/>
-  Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/> 
+  Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/>
 </p>
 
 <p align="center">
@@ -38,8 +38,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablosousaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosousaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/pablosousaa/pablosousaa/main/metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="left">
