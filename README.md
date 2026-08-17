@@ -35,16 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/pablosousaa/pablosousaa/main/metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablosousaa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 ### 🐍 Contribuições
