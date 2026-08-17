@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software na <b>Universidade de Brasília (UnB)</b> 🎓<br/>
-  Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/>
+  Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/> 
 </p>
 
 <p align="center">
