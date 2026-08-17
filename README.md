@@ -42,10 +42,20 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosousaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablosousaa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 ---
 
 ### 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pablosousaa/pablosousaa/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pablosousaa&label=Visualizações+no+perfil&color=blueviolet&style=flat" alt="profile views" />
 </p>
