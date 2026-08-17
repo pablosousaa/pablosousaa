@@ -1,0 +1,23 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12 horas
+  workflow_dispatch: {} # permite rodar manualmente pela aba Actions
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: pablosousaa
+          template: classic
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          filename: metrics.svg
+          committer_message: "docs: update github metrics [skip ci]"
