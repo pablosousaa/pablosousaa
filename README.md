@@ -3,7 +3,6 @@
 <p align="center">
   Estudante de Engenharia de Software na <b>Universidade de Brasília (UnB)</b> 🎓<br/>
   Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/>
-  Membro da equipe de robótica <b>Titans</b> 🤖
 </p>
 
 <p align="center">
