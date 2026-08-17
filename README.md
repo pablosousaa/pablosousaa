@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
-<!--
-**pablosousaa/pablosousaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Software na <b>Universidade de Brasília (UnB)</b> 🎓<br/>
+  Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/>
+  Membro da equipe de robótica <b>Titans</b> 🤖
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/pabloxszz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="42" alt="instagram logo" />
+  </a>
+  <a href="mailto:pabloantonio.msms@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="42" alt="email" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LinkedIn: em breve — quando criar a conta, adicione o link aqui no mesmo formato dos ícones acima -->
+
+
+---
+
+### 🚀 Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablosousaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosousaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pablosousaa/pablosousaa/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
