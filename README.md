@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software na <b>Universidade de Brasília (UnB)</b> 🎓<br/>
+  Estudante de Engenharia de Software pela <b>Universidade de Brasília (UnB)</b> 🎓<br/>
   Focado em <b>Frontend</b> e <b>Game Dev</b> 🎮<br/>
 </p>
 
